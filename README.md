@@ -14,7 +14,7 @@ This project is a clone of the Acme Photography website, recreated as a web desi
 
 ## Demo
 
-Check out the live demo [here](https://classy-x.github.io/Acme-clone.github.io/index.html).
+Check out the live demo [here](https://classy-x.github.io/Acme-clone.github.io/).
 
 ## Technologies Used
 
